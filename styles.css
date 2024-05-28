@@ -1,0 +1,13 @@
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #212121;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card-red{
+    color: blue;
+}
